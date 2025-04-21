@@ -100,24 +100,29 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-Include your plot here
+![image](https://github.com/user-attachments/assets/ea94e22c-1372-48fd-8e5b-fed143b13944)
+
 </br>
 </br>
 </br>
 
 ### Confusion Matrix
-Include confusion matrix here
+![image](https://github.com/user-attachments/assets/912e0c14-a751-4f5c-a6e3-194ce365c8f9)
+
 </br>
 </br>
 </br>
 
 ### Classification Report
-Include Classification Report here
+![image](https://github.com/user-attachments/assets/323b5eb7-3531-4c8b-a5b4-13598e453b42)
+
 </br>
 </br>
 </br>
 
 ### New Sample Prediction
+![image](https://github.com/user-attachments/assets/a73228ff-57ce-4be0-9fd8-5d4f4c8dcb85)
+
 </br>
 </br>
 </br>
