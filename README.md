@@ -128,6 +128,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 </br>
 
 ## RESULT
+The VGG-19 model was successfully trained and optimized to classify defected and non-defected capacitors.
 </br>
 </br>
 </br>
